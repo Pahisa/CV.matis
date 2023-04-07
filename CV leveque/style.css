@@ -1,0 +1,29 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    background: url(image2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    /* fond décran */
+  }
+  H1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Press Start 2P", sans-serif;
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+  }
+  H2  {
+    text-align: center;
+    background: linear-gradient(rgb(237, 20, 20), rgb(228, 116, 116));
+    border-radius: 20px 0 20px 0;
+    /* bandeau de couleur */
+  }
+  a {
+    color: rgb(126, 34, 34);
+    /* couleur des lien */
+  }
+
+div {color:rgb(192, 196, 255)}
+
